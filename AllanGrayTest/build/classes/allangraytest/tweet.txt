@@ -1,0 +1,17 @@
+Alan> If you have a procedure with 10 parameters, you probably missed some.
+Martin> Java 8 has some pretty neat functionality, I really like it.
+Ward> There are only two hard things in Computer Science: cache invalidation, naming things and off-by-1 errors.
+Alan> Random numbers should not be generated with a method chosen at random.
+Martin> This tweet is going to be longer than 140 characters and as such, it will be truncated to 140 characters so that the twitter gods are not aggravated
+Bob> My name is Bob. That's a palindrome.
+Bradley> Alan Turing is my favourite human
+Martin> I'm going to tweet the same thing twice
+Martin> I'm going to tweet the same thing twice
+DONALDTRUMP> I LOVE WALL
+Chris> I love Netbeans!
+Bob> Am I allowed to tweet @^$&@&@*$#&#&#&#?
+Bob> Turns out I AM allowed to tweet @^$&@&@*$#&#&#&#
+Bob this tweet isn't formatted correctly so say bye bye
+Kevin> Yes @Bob, you can tweet @^$&@&@*$#&#&#&#
+Bob> Thanks Kevin!
+K4evin> I was wondering if my tweet would work, based on the validation; apparently it does with no issues!
